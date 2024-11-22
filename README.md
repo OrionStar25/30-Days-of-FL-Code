@@ -25,7 +25,7 @@ At the very least, the AI privacy and risk community would've grown by a solid, 
 | Day | Date | Resources | Estimated Duration | Blog Post | Twitter Update |
 | :----: | :----: | ---- | :----: | ---- | ---- |
 | 1. | 21 November 2024 | <ul><li>[Intro to FL: DeepLearning.AI and Flower Labs](https://learn.deeplearning.ai/courses/intro-to-federated-learning/)</li><li>[A Step-by-Step Guide to Federated Learning in Computer Vision](https://www.v7labs.com/blog/federated-learning-guide)</li></ul>  | 1hr 10mins | [Introduction to Federated Learning](https://orionstar25.github.io/blog/2024/fl-challenge-day-1/) | [https://x.com/StarOrion25/status/1859568763869463032](https://x.com/StarOrion25/status/1859568763869463032) |
-| 2. | 22 November 2024 | [Privacy Preserving AI by Andrew Trask: MIT Deep Learning Series](https://www.youtube.com/watch?v=4zrU54VIK6k) | 1hr 15mins |  |  |
+| 2. | 22 November 2024 | [Privacy Preserving AI by Andrew Trask: MIT Deep Learning Series](https://www.youtube.com/watch?v=4zrU54VIK6k) | 1hr 15mins | [Privacy Preserving AI](https://orionstar25.github.io/blog/2024/fl-challenge-day-2/) | [https://x.com/StarOrion25/status/1860022614984655356](https://x.com/StarOrion25/status/1860022614984655356) |
 | 3. | 23 November 2024 | [Federated Fine-tuning of LLMs with Private Data](https://learn.deeplearning.ai/courses/intro-to-federated-learning-c2/lesson/1/introduction)  |  |  |  |
 | 4. | 24 November 2024 | [Introduction to Remote Data Science](https://courses.openmined.org/courses/introduction-to-remote-data-science) |  |  |  |
 | 5. | 25 November 2024 | [Our Privacy Opportunity](https://courses.openmined.org/courses/our-privacy-opportunity) | |  |  |
